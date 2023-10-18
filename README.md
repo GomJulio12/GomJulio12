@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 #### Lenguajes de Programacion
 <div style = "Display: Online_Block"><br>
   <img align = "center" alt = "JGC++" height = "34" width "37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align = "center" alt = "JGHTML" height = "34" width "37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align = "center" alt = "JGCSS" height = "34" width "37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align = "center" alt = "JGJAVA" height = "34" width "37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align = "center" alt = "JGPython" height = "34" width "37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 </div>
