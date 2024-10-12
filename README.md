@@ -3,6 +3,8 @@
 - 👀 I'm interested in learning about Frontend web design.
 - 🌱 I'm currently learning Html, Css and Javascript.
 
+<h2 style="color:#77b9db;">Título con color personalizado</h2>
+
 <!---
 GomJulio12/GomJulio12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
